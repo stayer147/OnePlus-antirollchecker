@@ -46,4 +46,4 @@ This repository automatically tracks the Anti-Rollback (ARB) index for OnePlus d
 4.  **Report**: Updates this README with the latest findings.
 
 ## 🤖 Workflow Status
-[![Check ARB](https://github.com/Bartixxx32/Oneplus-antiroackchecker/actions/workflows/check_arb.yml/badge.svg)](https://github.com/Bartixxx32/Oneplus-antiroackchecker/actions/workflows/check_arb.yml)
+[![Check ARB](https://github.com/Bartixxx32/Oneplus-antirollchecker/actions/workflows/check_arb.yml/badge.svg)](https://github.com/Bartixxx32/Oneplus-antirollchecker/actions/workflows/check_arb.yml)
