@@ -8,6 +8,24 @@
       "first_seen": "2026-02-04",
       "last_checked": "2026-02-04",
       "status": "current"
+    },
+    {
+      "version": "NE2210_15.0.0.1202(CN01)",
+      "arb": 0,
+      "major": 2,
+      "minor": 0,
+      "first_seen": "2026-02-04",
+      "last_checked": "2026-02-04",
+      "status": "archived"
+    },
+    {
+      "version": "NE2210_15.0.0.700(CN01)",
+      "arb": 0,
+      "major": 2,
+      "minor": 0,
+      "first_seen": "2026-02-04",
+      "last_checked": "2026-02-04",
+      "status": "archived"
     }
   ],
   "device": "OnePlus 10 Pro",
